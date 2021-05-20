@@ -1,4 +1,4 @@
-# Captando Dados e Gerando um Gráfico Sunburst Interativo de Índices Ibovespa|B3
+# Captando Dados e Gerando um Gráfico Sunburst Interativo de Índices Ibovespa|B3 :moneybag: :bar_chart: :chart_with_upwards_trend:
 
 Tutorial para captar os dados dos índices da B3 através de Web Scraping com Python e gerar um gráfico do tipo Sunburst com os setores, subsetores e empresas listadas.
 
